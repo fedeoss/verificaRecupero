@@ -1,0 +1,6 @@
+C:\Users\federica\Desktop\VerificaTps\VerificaTps\obj\Debug\VerificaTps.csprojAssemblyReference.cache
+C:\Users\federica\Desktop\VerificaTps\VerificaTps\bin\Debug\VerificaTps.exe.config
+C:\Users\federica\Desktop\VerificaTps\VerificaTps\bin\Debug\VerificaTps.exe
+C:\Users\federica\Desktop\VerificaTps\VerificaTps\bin\Debug\VerificaTps.pdb
+C:\Users\federica\Desktop\VerificaTps\VerificaTps\obj\Debug\VerificaTps.exe
+C:\Users\federica\Desktop\VerificaTps\VerificaTps\obj\Debug\VerificaTps.pdb
