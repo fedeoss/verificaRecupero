@@ -29,6 +29,8 @@ Consegnare il link al progetto GitHub.
             t1.Start();
             Thread t2 = new Thread(new ThreadStart(Tabellina));
             t2.Start();
+            Thread t3 = new Thread(new ThreadStart(Cognome));
+            t3.Start();
         }
         public static void Sottrazione()
         {
@@ -44,7 +46,21 @@ Consegnare il link al progetto GitHub.
         }
         public static void Tabellina()
         {
-
+            int tabellina;
+            int numero = 37;
+           
+          for(int i=0;i < 10; i++)
+            {
+                for (int y = 0; y < 10; y++)
+                {
+                    tabellina = numero * y;
+                    Console.WriteLine(numero + "+" y + "=" + tabellina );
+                }
+            }
+        }
+        public static void Cognome()
+        {
+             
         }
     }
 }
